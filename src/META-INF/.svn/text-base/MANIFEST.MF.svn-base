@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: commons-io-2.0.1.jar slf4j-api-1.6.4.jar log4j-over-slf4j-
+ 1.6.4.jar logback-classic-1.0.0.jar commons-logging-1.1.1.jar logback
+ -core-1.0.0.jar ant.jar antlr-3.4-complete.jar javacsv.jar
+Main-Class: ru.andremoniy.objctojavacnv.Converter
+
